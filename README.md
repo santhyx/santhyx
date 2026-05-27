@@ -19,6 +19,7 @@
 <div align="center"><h4>I also use or have used (commercially)</h4></div>
 <p align="center">
   <img src="./assets/icons/intellij.svg" width="24" height="40" alt="intellij">&nbsp;&nbsp;
+  <img src="./assets/icons/rider.svg" width="24" height="40" alt="rider">&nbsp;&nbsp;
   <img src="./assets/icons/vs.svg" width="24" height="40" alt="visual studio">&nbsp;&nbsp;
   <img src="./assets/icons/mysql.svg" width="36" height="40" alt="mysql">&nbsp;&nbsp;
   <img src="./assets/icons/yarn.svg" width="24" height="40" alt="yarn">&nbsp;&nbsp;
