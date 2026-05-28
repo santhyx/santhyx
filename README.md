@@ -13,7 +13,7 @@
   <img src="./assets/icons/postgresql.svg" width="24" height="40" alt="postgresql">&nbsp;&nbsp;
   <img src="./assets/icons/devcontainers.svg" width="24" height="40" alt="devcontainers">&nbsp;&nbsp;
   <img src="./assets/icons/dotenv.svg" width="24" height="40" alt="dotenv">&nbsp;&nbsp;
-  <img src="./assets/icons/opencode.webp" width="24" height="30" alt="opencode">&nbsp;&nbsp;
+  <img src="./assets/icons/opencode.webp" width="24" height="36" alt="opencode">&nbsp;&nbsp;
   <img src="./assets/icons/pnpm.svg" width="24" height="40" alt="pnpm">
 </p>
 <div align="center"><h4>I also use or have used (commercially)</h4></div>
@@ -30,23 +30,23 @@
 <p align="center">
   <img src="./assets/icons/dotnet.svg" width="24" height="40" alt="dotnet">&nbsp;&nbsp;
   <img src="./assets/icons/react.svg" width="24" height="40" alt="react">&nbsp;&nbsp;
-  <img src="./assets/icons/react-native.svg" width="30" height="30" alt="react-native">&nbsp;&nbsp;
+  <img src="./assets/icons/react-native.svg" width="30" height="40" alt="react-native">&nbsp;&nbsp;
   <img src="./assets/icons/vue.svg" width="24" height="40" alt="vue">&nbsp;&nbsp;
   <img src="./assets/icons/node.svg" width="24" height="40" alt="node">&nbsp;&nbsp;
-  <img src="./assets/icons/tailwind.svg" width="24" height="48" alt="tailwind">
+  <img src="./assets/icons/tailwind.svg" width="24" height="40" alt="tailwind">
 </p>
 <div align="center"><h4>But I also worked with</h4></div>
 <p align="center">
   <img src="./assets/icons/springboot.svg" width="24" height="40" alt="springboot">&nbsp;&nbsp;
   <img src="./assets/icons/jquery.svg" width="24" height="40" alt="jquery">&nbsp;&nbsp;
-  <img src="./assets/icons/antdesign.svg" width="24" height="48" alt="antdesign">&nbsp;&nbsp;
-  <img src="./assets/icons/bootstrap.svg" width="24" height="48" alt="bootstrap">
+  <img src="./assets/icons/antdesign.svg" width="24" height="40" alt="antdesign">&nbsp;&nbsp;
+  <img src="./assets/icons/bootstrap.svg" width="24" height="40" alt="bootstrap">
 </p>
 <div align="center"><h4>Depending on my needs, I also use</h4></div>
 <p align="center">
   <img src="./assets/icons/remix.svg" width="24" height="40" alt="remix">&nbsp;&nbsp;
   <img src="./assets/icons/next.svg" width="24" height="40" alt="next">&nbsp;&nbsp;
-  <img src="./assets/icons/nestjs.svg" width="24" height="48" alt="nest">
+  <img src="./assets/icons/nestjs.svg" width="24" height="40" alt="nest">
 </p>
 <div align="center"><h4>So it's easy to assume I use languages like</h4></div>
 <p align="center">
